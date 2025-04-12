@@ -1,11 +1,13 @@
 # LeetcodeNights
-Stores Leetcode Problem solutions and notes
 
-
-
+Practicing Leetcode
 
 <details>
   <summary>Arrays </summary>
+  Question:
+  1) 
+  2) 
+  3)
   
   
   
