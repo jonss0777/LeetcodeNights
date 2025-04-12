@@ -6,20 +6,21 @@ Practicing Leetcode
   <summary>Arrays </summary>
   Question:
   - Problem:
-```
-Code
+    ```
+    Code
   
-```
-  - Problem:
-```
-Code
+    ```
 
-```
   - Problem:
-```
-Code
+    ```
+    Code
 
-```
+    ```
+  - Problem:
+    ```
+    Code
+
+    ```
   
   
   
