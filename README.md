@@ -5,9 +5,21 @@ Practicing Leetcode
 <details>
   <summary>Arrays </summary>
   Question:
-  1) 
-  2) 
-  3)
+  - Problem:
+```
+Code
+  
+```
+  - Problem:
+```
+Code
+
+```
+  - Problem:
+```
+Code
+
+```
   
   
   
