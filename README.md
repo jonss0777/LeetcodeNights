@@ -4,25 +4,6 @@ Practicing Leetcode
 
 <details>
   <summary>Arrays </summary>
-  Question:
-  
-  - Problem:
-    ```
-    Code
-  
-    ```
-
-  - Problem:
-    ```
-    Code
-
-    ```
-  - Problem:
-    ```
-    Code
-
-    ```
-  
   
   
 </details>
@@ -61,4 +42,11 @@ Practicing Leetcode
   
   
 </details>
+
+<details>
+  <summary>Big Data Algorithms</summary>
+  
+</details>
+
+
 
